@@ -1,1 +1,2 @@
 Add 1st line in the file
+Added 2nd line in GitHub master
