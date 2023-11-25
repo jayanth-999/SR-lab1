@@ -1,2 +1,4 @@
 Add 1st line in the file
 Added 2nd line in GitHub master
+Added 3rd line in local master
+added 5th line in local branch
